@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 336.80005
     height: 716.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43.2
+    y: 0
     width: 1536
     height: 36
   m_SerializedDataModeController:
@@ -642,7 +642,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 503.2
+    y: 448
     width: 1198.2
     height: 266.8
   m_SerializedDataModeController:
@@ -693,8 +693,7 @@ MonoBehaviour:
       m_Data: 94792
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 94790
-    - m_Data: 1000000000
+    - m_Data: 64626
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -725,7 +724,9 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 64626
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -806,8 +807,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1199.2001
-    y: 79.200005
+    x: 1200.2
+    y: 24
     width: 335.80005
     height: 690.8
   m_SerializedDataModeController:
@@ -858,7 +859,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 369.4
     height: 398
   m_SerializedDataModeController:
@@ -876,7 +877,7 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 439}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
@@ -930,8 +931,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 370.4
-    y: 79.200005
+    x: 371.4
+    y: 24
     width: 826.7999
     height: 398
   m_SerializedDataModeController:
@@ -1568,11 +1569,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.33629417, y: -0.6220606, z: 0.33627126, w: 0.62204635}
     speed: 2
-    m_Value: {x: 0.33628187, y: -0.6220378, z: 0.33625895, w: 0.6220236}
+    m_Value: {x: -0.33629414, y: 0.62206054, z: -0.33627123, w: -0.62204635}
   m_Size:
     m_Target: 339.59555
     speed: 2
-    m_Value: 355.59744
+    m_Value: 339.59555
   m_Ortho:
     m_Target: 0
     speed: 2
