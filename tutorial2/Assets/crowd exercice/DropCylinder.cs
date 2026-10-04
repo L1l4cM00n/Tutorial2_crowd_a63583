@@ -28,11 +28,10 @@ public class DropCylinder : MonoBehaviour
             if (Physics.Raycast(ray, out hitInfo))
             {
                 Instantiate(obstacle, hitInfo.point, obstacle.transform.rotation);
-
-                //foreach (GameObject agent in agents)
-               // {
-                    
-               // }
+                foreach (GameObject agent in agents)
+                {
+                    agent.GetComponent<AIControl>().DetectNewObstacle(hitInfo.point);
+                }
             }
         }
     }
