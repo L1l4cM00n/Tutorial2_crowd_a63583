@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class FlockManager : MonoBehaviour {
 
+<<<<<<< Updated upstream
     public static FlockManager FM;
     public GameObject[] fishPrefab;
     public int numFish = 20;
@@ -34,11 +35,16 @@ public class FlockManager : MonoBehaviour {
         }
         FM = this;
         goalPos = this.transform.position;
+=======
+    void Start() {
+
+>>>>>>> Stashed changes
     }
 
 
     void Update() {
 
+<<<<<<< Updated upstream
         if(Random.Range(0, 100) < 10) {
 
             goalPos = this.transform.position + new Vector3(
@@ -46,5 +52,7 @@ public class FlockManager : MonoBehaviour {
                 Random.Range(-swimLimits.x, swimLimits.x),
                 Random.Range(-swimLimits.x, swimLimits.x));
         }
+=======
+>>>>>>> Stashed changes
     }
 }

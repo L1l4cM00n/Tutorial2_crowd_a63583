@@ -2,6 +2,7 @@ using UnityEditor.ShaderKeywordFilter;
 using UnityEngine;
 
 public class Flock : MonoBehaviour {
+<<<<<<< Updated upstream
 
     float speed;
     bool turning = false;
@@ -98,5 +99,14 @@ public class Flock : MonoBehaviour {
                     FlockManager.FM.rotationSpeed * Time.deltaTime);
             }
         }
+=======
+    void Start()
+    {
+    }
+
+    void Update() {
+
+       
+>>>>>>> Stashed changes
     }
 }
