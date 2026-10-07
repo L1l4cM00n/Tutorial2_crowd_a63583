@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 828.7999
     height: 424
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -669,7 +669,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/flocking/Scripts
+    - Assets/crowd exercice
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -679,7 +679,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/flocking/Scripts
+  - Assets/crowd exercice
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Utilizador\Documents\GitHub\Tutorial2_crowd_a63583\tutorial2
   m_LockTracker:
@@ -688,21 +688,13 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 67764
+    - m_Data: 67464
     m_LastClickedID:
-      m_Data: 67764
+      m_Data: 67464
     m_ExpandedIDs:
     - m_Data: 0
-<<<<<<< Updated upstream
-    - m_Data: 46642
-    - m_Data: 46644
-=======
-    - m_Data: 64626
-    - m_Data: 67464
-    - m_Data: 67488
-    - m_Data: 67500
-    - m_Data: 1000000000
->>>>>>> Stashed changes
+    - m_Data: 64632
+    - m_Data: 64634
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -735,12 +727,8 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-<<<<<<< Updated upstream
-    - m_Data: 46642
-    - m_Data: 46644
-=======
-    - m_Data: 64626
->>>>>>> Stashed changes
+    - m_Data: 64632
+    - m_Data: 64634
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -767,14 +755,15 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 71786
+    m_LastClickedInstanceID: 71786
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: flocking
-      m_OriginalName: flocking
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -782,10 +771,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 67488
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 5}
@@ -896,9 +885,10 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -46092
-      - m_Data: -30478
+      - m_Data: -51722
+      - m_Data: -27030
       - m_Data: -1296
+      - m_Data: 70754
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1533,9 +1523,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 743.5959, y: 36.047535, z: 30.179964}
+    m_Target: {x: 615.6847, y: -437.85504, z: 42.84674}
     speed: 2
-    m_Value: {x: 743.5959, y: 36.047535, z: 30.179964}
+    m_Value: {x: 615.6847, y: -437.85504, z: 42.84674}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1581,21 +1571,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.023939319, y: 0.7007852, z: -0.023568416, w: 0.712654}
+    m_Target: {x: 0.2212039, y: 0.6524343, z: -0.20787676, w: 0.69448566}
     speed: 2
-<<<<<<< Updated upstream
-    m_Value: {x: -0.33629414, y: 0.62206054, z: -0.33627123, w: -0.62204635}
+    m_Value: {x: 0.2212039, y: 0.6524343, z: -0.20787676, w: 0.69448566}
   m_Size:
-    m_Target: 516.5
+    m_Target: 421.6088
     speed: 2
-    m_Value: 339.59555
-=======
-    m_Value: {x: 0.023938073, y: 0.70074874, z: -0.023567189, w: 0.71261686}
-  m_Size:
-    m_Target: 516.5
-    speed: 2
-    m_Value: 516.5
->>>>>>> Stashed changes
+    m_Value: 421.6088
   m_Ortho:
     m_Target: 0
     speed: 2
