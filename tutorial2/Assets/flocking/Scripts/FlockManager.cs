@@ -1,4 +1,5 @@
 using UnityEngine;
+
 public class FlockManager : MonoBehaviour
 {
     public static FlockManager FM;
@@ -42,6 +43,5 @@ public class FlockManager : MonoBehaviour
 
     void Update()
     {
-        
     }
-} 
+}
